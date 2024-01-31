@@ -4,3 +4,4 @@ https://github.com/microsoftgraph/msgraph-sdk-javascript?tab=readme-ov-file
 
 https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/samples/msal-node-samples/auth-code
 
+https://github.com/microsoftgraph/msgraph-sample-nodeexpressapp/tree/main
