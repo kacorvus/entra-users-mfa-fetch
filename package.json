@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "AGPL-3.0"
+  "type": "module",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "@azure/msal-node": "^2.6.2",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "isomorphic-fetch": "^3.0.0"
+  }
 }
